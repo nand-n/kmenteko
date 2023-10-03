@@ -1,0 +1,105 @@
+[
+  {
+    "id": 1,
+    "name": "Finalize frontend implementation and rollout of OKR and Planning",
+    "keyresults": [
+      {
+        "id": 1,
+        "name": "Finalize frontend development of OKR and Planning",
+        "percentage": 10
+      },
+      {
+        "id": 2,
+        "name": "Finalize testing of OKR and Planning",
+        "percentage": 12
+      }
+    ],
+    "percentage": 24
+  },
+  {
+    "id": 2,
+    "name": "Finalize frontend implementation and rollout CRM",
+
+    "keyresults": [
+      {
+        "id": 1,
+        "name": "Finalize frontend development of CRM",
+        "percentage": 60
+      },
+      {
+        "id": 2,
+        "name": "Finalize testing of CRM",
+        "percentage": 25
+      }
+    ],
+    "percentage": 35
+  },
+  {
+    "id": 3,
+    "name": "Finalize and roll out BoQ automation system",
+    "keyresults": [
+      {
+        "id": 1,
+        "name": "Finalize frontend development of BoQ",
+        "percentage": 90
+      },
+      {
+        "id": 2,
+        "name": "Finalize backend development of BoQ",
+        "percentage": 90
+      }
+    ],
+    "percentage": 90
+  },
+  {
+    "id": 4,
+    "name": "Finalize beta phase of SCM",
+    "keyresults": [
+      {
+        "id": 1,
+        "name": "Finalize all module implementation and testing",
+        "percentage": 90
+      },
+      {
+        "id": 2,
+        "name": "Close 95% of issues raised during beta phase",
+        "percentage": 65
+      }
+    ],
+    "percentage": 90
+  },
+  {
+    "id": 5,
+    "name": "Close 75% of support issues raised on operational IE systems",
+    "keyresults": [
+      {
+        "id": 1,
+        "name": "Close 75% of support issues raised on FMS",
+        "percentage": 70
+      },
+      {
+        "id": 2,
+        "name": "Close 75% of support issues raised on SCM",
+        "percentage": 64
+      }
+    ],
+    "percentage": 80
+  },
+  {
+    "id": 6,
+    "name": "Achieve 75% of Q2 staff development plan for the SaaS team",
+    "keyresults": [
+      {
+        "id": 1,
+        "name": "Finalize learning session planned for Q2",
+        "percentage": 66
+      },
+      {
+        "id": 2,
+        "name": "Finalize web development course",
+        "percentage": 78
+      }
+    ],
+    "percentage": 50
+  }
+]

@@ -1,0 +1,19 @@
+.sd-piecharts1 {
+  fill: none;
+  stroke: #D9D9D9;
+  opacity: 0.16;
+  stroke-width: 4;
+  stroke-linecap: round;
+  transform: translate(5px 5px);
+}
+.sd-piecharts2 {
+  fill: none;
+  stroke: #0F3A62;
+  stroke-width: 4;
+  stroke-linecap: round;
+  transform: translate(5px 5px);
+  stroke-dasharray: 300;
+  stroke-dashoffset: 132;
+}
+
+
